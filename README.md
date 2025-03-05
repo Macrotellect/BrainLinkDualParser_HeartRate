@@ -1,3 +1,13 @@
+# BrainLink Dual with Heart rate is supported. 
+## Not compatible with BrainLink Pro.
+## Not compatible with BrainLink Lite.
+## Not compatible with BrainLink Tune.
+## Not compatible with BrainLink Dual without heart rate.
+
+
+
+
+
 # BrainLinkDualParser 开发指南
 
 **功能：**
