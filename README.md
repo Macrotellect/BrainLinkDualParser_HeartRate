@@ -135,9 +135,9 @@ Gyroscope data
 
 `func onExtend(heart: Int, rr: [Int], temperature: Float)`
 
-heart: 心率数据
-rr: 心跳RR值
-temperature: 额头温度
+heart: heart rate
+rr: The RR interval data used for calculating HRV.
+temperature: Forehead temperature
 
 # 3.Other tips
 
