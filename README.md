@@ -53,15 +53,14 @@ Its value ranges from 0 to 100. The device should be charged as soon as possible
 
 # 2.Start to use this SDK, BrainLinkDualParser
 
-**功能：**
+**Brief Description of Functions**
+This SDK is used for parsing dual-channel EEG data and supports iOS and macOS systems.
+Note：Third-party developers need to write their own code for **Bluetooth scanning and connection**. The brainwave device communicates with the mobile phone via Bluetooth for data transmission.
 
-解析双通道脑波数据，支持iOS和Macos
+**EEG hardware**
+   - BrainLinkDual with Heart rate
 
-**支持的硬件设备：**
-   - BrainLinkDual
-
-**支持的Swift版本**
-
+**Our development environment is as follows:**
 - Swift 5.0
 - iOS 12
 - Macos 10.13
@@ -74,7 +73,7 @@ Its value ranges from 0 to 100. The device should be charged as soon as possible
 
 `var delegate: DualParserDelegate?` [#](#delegate)
 
-数据回调代理
+Data Callback Proxy
 
 ### Functions
 
