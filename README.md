@@ -79,15 +79,15 @@ Data Callback Proxy
 
 `func parsing(data: [UInt8], length: Int)`
 
-传入需要解析的数据
+Input the data that needs to be parsed.
 
 `func startParsing()`
 
-开始解析
+start to parse
 
 `func stopParsing()`
 
-停止解析
+stop parsing
 
 ## Protocol
 
@@ -97,12 +97,12 @@ Data Callback Proxy
 
 `func onRaw(raw1: Int, raw2: Int)`
 
-raw1: 通道1原始脑波
-raw2: 通道2原始脑波
+raw1: RawEEG of Channel one 
+raw2: RawEEG of Channel two 
 
 `func onSignal(signal: Int)`
 
-signal: 0 - 100，0为未佩戴，100为佩戴好
+signal: 0 - 100，100 is good.
 
 `func onBattery(battery: Int)`
 
