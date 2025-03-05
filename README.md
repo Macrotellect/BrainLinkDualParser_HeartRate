@@ -14,6 +14,22 @@
 - The original brain wave value RawData (Raw value). The range of values is (-32768, 32767), with data being 512 per second; during transmission, if packet loss occurs, the data is discarded and not displayed. The original brain wave value has no unit and is not the original signal collected by the EEG sensor, but a digital signal converted by the hardware.
 - The original EEG data includes the original signals collected from two channels, namely Fp1 (left frontal) and Fp2 (right frontal).
 - voltage value, the calculation formula is: voltage = Rawdata L/R * (3.3/1024) / 1100, with the unit being volts. Note that this is voltage, not high or low level, hence there will be no negative numbers; Rawdata should be a single or double precision floating-point number.
+## Delta（0.5-4 Hz）
+These are slower brainwaves with a flat waveform on an electroencephalogram (EEG), often appearing during deep sleep. Delta waves can be easily disturbed by muscle electrical interference when the user is awake, such as from blinking, turning the head, or frowning. If the Delta wave values are high, please ask the user to remain as still as possible when collecting data.
+## Theta（4-8 Hz）
+Appears during half awaken or light sleep states, sometime can also be found in deep relaxation stage during mediation.
+## Alpha（8-13 Hz）
+A state of deep relaxation while being awake. The brain operates more smoothly, which is the optimal state for thinking and learning.
+## SMR（12-15 Hz）：
+SMR waves, also known as Sensorimotor Rhythm, were discovered by Dr. M.B. Sterman at California State University in San Francisco. They are found in the sensory and motor cortices of the cerebral cortex. SMR waves are closely related to the brain's state of alertness and serve as a measure of the degree of brain arousal. The enhancement of SMR waves is associated with improved attention and cognitive functions. For instance, certain neurofeedback training techniques attempt to increase the intensity of SMR waves to help alleviate symptoms in patients with Attention Deficit Hyperactivity Disorder (ADHD).
+## MidBeta（15-20 Hz）
+Appears during the early stage of concentration tasks, the brain’s consumption of body energy starts to increase.
+## HighBeta（20-30 Hz）
+Appears when highly focused, alerted, or nervous. 
+## Gamma（30-50 Hz）
+Associated with high level mental cognition and performance. Sometime accompanied with extreme emotions such as ecstasy, hyper excitement, or sorrow.
+## Heart rate
+Heart rate usually refers to the number of heartbeats per minuteThe heart of a healthy adult beats 60-100 times per minute.
 
 # 2.Start to use this SDK, BrainLinkDualParser
 
