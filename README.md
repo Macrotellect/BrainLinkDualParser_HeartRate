@@ -140,4 +140,6 @@ rr: The RR interval data used for calculating HRV.
 temperature: Forehead temperature
 
 # 3.Other tips
-
+**3-1** What information can be provided to help us resolve issues more quickly during the development process?
+Please ask the developers to save **screenshots or videos of the error** at the first moment. Then, please provide this information to the following email address: alexander@macrotellect.com.
+We will respond within 24 hours and strive to resolve all issues within 3 working days.
