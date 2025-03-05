@@ -20,7 +20,7 @@ These are slower brainwaves with a flat waveform on an electroencephalogram (EEG
 Appears during half awaken or light sleep states, sometime can also be found in deep relaxation stage during mediation.
 ## Alpha（8-13 Hz）
 A state of deep relaxation while being awake. The brain operates more smoothly, which is the optimal state for thinking and learning.
-## SMR（12-15 Hz）：
+## SMR（12-15 Hz）
 SMR waves, also known as Sensorimotor Rhythm, were discovered by Dr. M.B. Sterman at California State University in San Francisco. They are found in the sensory and motor cortices of the cerebral cortex. SMR waves are closely related to the brain's state of alertness and serve as a measure of the degree of brain arousal. The enhancement of SMR waves is associated with improved attention and cognitive functions. For instance, certain neurofeedback training techniques attempt to increase the intensity of SMR waves to help alleviate symptoms in patients with Attention Deficit Hyperactivity Disorder (ADHD).
 ## MidBeta（15-20 Hz）
 Appears during the early stage of concentration tasks, the brain’s consumption of body energy starts to increase.
@@ -30,6 +30,26 @@ Appears when highly focused, alerted, or nervous.
 Associated with high level mental cognition and performance. Sometime accompanied with extreme emotions such as ecstasy, hyper excitement, or sorrow.
 ## Heart rate
 Heart rate usually refers to the number of heartbeats per minuteThe heart of a healthy adult beats 60-100 times per minute.
+## Heart rate variability
+This SDK provides the RR interval values needed to calculate HRV. Heart rate usually refers to the number of heartbeats per minute, while the RR interval refers to the time distance between two consecutive R-wave peaks on an electrocardiogram (ECG). Both heart rate and HRV can be measured through RR intervals. Each RR interval is measured in milliseconds.
+**Output rate:** The RR intervals are output once per second. Each output is an array, which may contain 2 to 3 RR interval data points.
+**Why only provide RR values instead of directly outputting HRV? **
+This is because HRV algorithms can range from short-term to long-term, even up to 24 hours. Developers need to calculate HRV based on their own customers' requirements. https://www.kubios.com/blog/hrv-analysis-methods/
+## Forehead temperature
+Forehead temperature: This is the temperature of user's forehead. The normal body temperature of the human body is between 36～37℃. Fever is 37.1℃. Low fever is between 37.3-38℃. High fever is between 38.1-40℃. Above 40°C, life is in danger at any time.
+## Gyroscope
+**Gyroscope Activation
+**1. Do not turn on the brainwave module first.  
+2. Assemble the brainwave module onto the headband.  
+3. After placing the brainwave module **horizontally**, press and hold the power button to turn it on.
+Pitch: The movement when nodding or raising the head backward.
+Yaw: The rotation angle when shaking the head around the vertical axis.
+Roll: The rotation angle when rotating the head side way to the right or left. 
+## Signal
+Its value ranges from 0 to 100. A value of 100 indicates that the electrodes are in contact with the user's skin properly.
+## Battery
+Its value ranges from 0 to 100. The device should be charged as soon as possible when the battery level drops below 20. Severe battery depletion can lead to an increased packet loss rate in data transmission.
+
 
 # 2.Start to use this SDK, BrainLinkDualParser
 
