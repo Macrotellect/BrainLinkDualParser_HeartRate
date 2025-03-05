@@ -42,9 +42,9 @@ Forehead temperature: This is the temperature of user's forehead. The normal bod
 1. Do not turn on the brainwave module first.  
 2. Assemble the brainwave module onto the headband.  
 3. After placing the brainwave module **horizontally**, press and hold the power button to turn it on.
-Pitch: The movement when nodding or raising the head backward.
-Yaw: The rotation angle when shaking the head around the vertical axis.
-Roll: The rotation angle when rotating the head side way to the right or left. 
+- Pitch: The movement when nodding or raising the head backward.
+- Yaw: The rotation angle when shaking the head around the vertical axis.
+- Roll: The rotation angle when rotating the head side way to the right or left. 
 ## Signal
 Its value ranges from 0 to 100. A value of 100 indicates that the electrodes are in contact with the user's skin properly.
 ## Battery
