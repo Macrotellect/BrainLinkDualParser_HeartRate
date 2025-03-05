@@ -4,12 +4,14 @@
 ## Not compatible with BrainLink Lite.
 ## Not compatible with BrainLink Tune.
 ## Not compatible with BrainLink Dual without heart rate.
+# Basic information of this guidance
+![gpt17261921232250](https://github.com/user-attachments/assets/1b30ee62-785f-4ba6-bb40-7fcf995508f5)
 
 
 
 
 
-# BrainLinkDualParser 开发指南
+# 2.Start to use this SDK, BrainLinkDualParser
 
 **功能：**
 
@@ -98,3 +100,6 @@ eeg2: 数组长度为10，代表通道2脑波数值
 heart: 心率数据
 rr: 心跳RR值
 temperature: 额头温度
+
+# 3.Other tips
+
