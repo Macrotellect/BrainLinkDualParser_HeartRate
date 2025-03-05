@@ -9,7 +9,7 @@
 
 
 
-
+# 1.Explanation for each brainwave values
 
 # 2.Start to use this SDK, BrainLinkDualParser
 
