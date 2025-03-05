@@ -39,7 +39,8 @@ This is because HRV algorithms can range from short-term to long-term, even up t
 Forehead temperature: This is the temperature of user's forehead. The normal body temperature of the human body is between 36～37℃. Fever is 37.1℃. Low fever is between 37.3-38℃. High fever is between 38.1-40℃. Above 40°C, life is in danger at any time.
 ## Gyroscope
 **Gyroscope Activation
-**1. Do not turn on the brainwave module first.  
+**
+1. Do not turn on the brainwave module first.  
 2. Assemble the brainwave module onto the headband.  
 3. After placing the brainwave module **horizontally**, press and hold the power button to turn it on.
 Pitch: The movement when nodding or raising the head backward.
