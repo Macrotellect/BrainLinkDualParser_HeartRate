@@ -106,33 +106,32 @@ signal: 0 - 100，100 is good.
 
 `func onBattery(battery: Int)`
 
-battery: 设备电量 0 - 100
+battery: 0 - 100，100 is full.
 
 `func onFrequency(frequency1: [Float], frequency2: [Float])`
 
-frequency1: 数组长度为140，代表通道1脑波频率0-70hz的数值
-frequency2: 数组长度为140，代表通道2脑波频率0-70hz的数值
+frequency1: The array length is 140, representing the values of brainwave frequencies from 0 to 70 Hz for Channel 1.
+frequency2: The array length is 140, representing the values of brainwave frequencies from 0 to 70 Hz for Channel 2.
 
 `func onEEG(eeg1: [Float], eeg2: [Float])`
 
-eeg1: 数组长度为10，代表通道1脑波数值
-eeg2: 数组长度为10，代表通道2脑波数值
+eeg1: The array length is 10, representing the EEG values of Channel 1.
+eeg2: The array length is 10, representing the EEG values of Channel 2.
 
-- Delta（0.5-4 Hz）：活动较缓慢的脑波，其在脑电图上的形状则是平缓的曲线，往往在深度睡眠时出现。德尔塔波在用户清醒状态下, 容易受到眨眼、转头、皱眉所产生的肌肉电干扰. 如德尔塔波数值较高, 请用户尽量保持静止再采集数据
-- Theta（4-8 Hz）：浅度睡眠或半醒觉状态，在冥想中深度放松时也会出现 Theta 脑波
-- Alpha（8-13 Hz）：醒觉状态下的深度放松状态。大脑运作较为畅顺，是思考和学习最佳状态
-- SMR（12-15 Hz）： SMR 波，也称为传感器摩斯节律（Sensorimotor Rhythm），是由位于美国旧金山的加利福尼亚州立大学的 M.B. Sterman 博士发现的。它在大脑皮层中的感觉皮层和运动皮层被发现。SMR 波与大脑的觉醒状态密切相关，是衡量大脑觉醒程度的一个尺度。SMR 波的增强与提高注意力和认知功能有关。例如，某些神经反馈训练技术会尝试增加 SMR 波的强度，以帮助改善注意力缺陷障碍（ADHD）患者的症状
-- Beta (15-30hz) : MidBeta和HighBeta
-- MidBeta（15-20 Hz）：大脑较为专注的状态，精神开始集中于一项事物，同时大脑的血氧耗能也会加快
-- HighBeta（20-30 Hz）：专注力高度集中，警觉或精神紧张的状态
-- Gamma（30-50 Hz）：涉及较高的处理任务以及认知功能。对学习，记忆和信息处
-理非常重要。同时伴随极端的情绪出现，例如喜乐、亢奋或极度沮丧等
-- Total 脑波数值之和
-- Max 脑波数值最大值
+- Delta（0.5-4 Hz）
+- Theta（4-8 Hz）
+- Alpha（8-13 Hz）
+- SMR（12-15 Hz）
+- Beta (15-30hz) : The sum of the values of MidBeta and HighBeta
+- MidBeta（15-20 Hz）
+- HighBeta（20-30 Hz）
+- Gamma（30-50 Hz）
+- Total： The sum of all brainwave values
+- Max： The maximum value among all brainwave data
 
 `func onGyro(x: Int, y: Int, z: Int)`
 
-陀螺仪数据
+Gyroscope data
 
 `func onExtend(heart: Int, rr: [Int], temperature: Float)`
 
