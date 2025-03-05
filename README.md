@@ -1,3 +1,4 @@
+![A(%FH4(PZ8IKNOL~5`PMGT4](https://github.com/user-attachments/assets/bc184c7c-3fd5-4d32-bd35-75a7cf3e5120)
 # BrainLink Dual with Heart rate is supported. 
 ## Not compatible with BrainLink Pro.
 ## Not compatible with BrainLink Lite.
