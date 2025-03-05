@@ -1,0 +1,6 @@
+framework module BrainLinkDualParser {
+  umbrella header "BrainLinkDualParser.h"
+  export *
+
+  module * { export * }
+}

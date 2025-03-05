@@ -1,0 +1,1551 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "BrainLinkDualParser",
+    "printedName": "BrainLinkDualParser",
+    "children": [
+      {
+        "kind": "TypeDecl",
+        "name": "DualParserDelegate",
+        "printedName": "DualParserDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "onRaw",
+            "printedName": "onRaw(raw1:raw2:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19BrainLinkDualParser0cD8DelegateP5onRaw4raw14raw2ySi_SitF",
+            "mangledName": "$s19BrainLinkDualParser0cD8DelegateP5onRaw4raw14raw2ySi_SitF",
+            "moduleName": "BrainLinkDualParser",
+            "genericSig": "<τ_0_0 where τ_0_0 : BrainLinkDualParser.DualParserDelegate>",
+            "sugared_genericSig": "<Self where Self : BrainLinkDualParser.DualParserDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onSignal",
+            "printedName": "onSignal(signal:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19BrainLinkDualParser0cD8DelegateP8onSignal6signalySi_tF",
+            "mangledName": "$s19BrainLinkDualParser0cD8DelegateP8onSignal6signalySi_tF",
+            "moduleName": "BrainLinkDualParser",
+            "genericSig": "<τ_0_0 where τ_0_0 : BrainLinkDualParser.DualParserDelegate>",
+            "sugared_genericSig": "<Self where Self : BrainLinkDualParser.DualParserDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onBattery",
+            "printedName": "onBattery(battery:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19BrainLinkDualParser0cD8DelegateP9onBattery7batteryySi_tF",
+            "mangledName": "$s19BrainLinkDualParser0cD8DelegateP9onBattery7batteryySi_tF",
+            "moduleName": "BrainLinkDualParser",
+            "genericSig": "<τ_0_0 where τ_0_0 : BrainLinkDualParser.DualParserDelegate>",
+            "sugared_genericSig": "<Self where Self : BrainLinkDualParser.DualParserDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onFrequency",
+            "printedName": "onFrequency(frequency1:frequency2:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.Float]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Float",
+                    "printedName": "Swift.Float",
+                    "usr": "s:Sf"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.Float]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Float",
+                    "printedName": "Swift.Float",
+                    "usr": "s:Sf"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19BrainLinkDualParser0cD8DelegateP11onFrequency10frequency110frequency2ySaySfG_AGtF",
+            "mangledName": "$s19BrainLinkDualParser0cD8DelegateP11onFrequency10frequency110frequency2ySaySfG_AGtF",
+            "moduleName": "BrainLinkDualParser",
+            "genericSig": "<τ_0_0 where τ_0_0 : BrainLinkDualParser.DualParserDelegate>",
+            "sugared_genericSig": "<Self where Self : BrainLinkDualParser.DualParserDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onEEG",
+            "printedName": "onEEG(eeg1:eeg2:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.Float]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Float",
+                    "printedName": "Swift.Float",
+                    "usr": "s:Sf"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.Float]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Float",
+                    "printedName": "Swift.Float",
+                    "usr": "s:Sf"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19BrainLinkDualParser0cD8DelegateP5onEEG4eeg14eeg2ySaySfG_AGtF",
+            "mangledName": "$s19BrainLinkDualParser0cD8DelegateP5onEEG4eeg14eeg2ySaySfG_AGtF",
+            "moduleName": "BrainLinkDualParser",
+            "genericSig": "<τ_0_0 where τ_0_0 : BrainLinkDualParser.DualParserDelegate>",
+            "sugared_genericSig": "<Self where Self : BrainLinkDualParser.DualParserDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onGyro",
+            "printedName": "onGyro(x:y:z:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19BrainLinkDualParser0cD8DelegateP6onGyro1x1y1zySi_S2itF",
+            "mangledName": "$s19BrainLinkDualParser0cD8DelegateP6onGyro1x1y1zySi_S2itF",
+            "moduleName": "BrainLinkDualParser",
+            "genericSig": "<τ_0_0 where τ_0_0 : BrainLinkDualParser.DualParserDelegate>",
+            "sugared_genericSig": "<Self where Self : BrainLinkDualParser.DualParserDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onExtend",
+            "printedName": "onExtend(heart:rr:temperature:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.Int]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19BrainLinkDualParser0cD8DelegateP8onExtend5heart2rr11temperatureySi_SaySiGSftF",
+            "mangledName": "$s19BrainLinkDualParser0cD8DelegateP8onExtend5heart2rr11temperatureySi_SaySiGSftF",
+            "moduleName": "BrainLinkDualParser",
+            "genericSig": "<τ_0_0 where τ_0_0 : BrainLinkDualParser.DualParserDelegate>",
+            "sugared_genericSig": "<Self where Self : BrainLinkDualParser.DualParserDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:19BrainLinkDualParser0cD8DelegateP",
+        "mangledName": "$s19BrainLinkDualParser0cD8DelegateP",
+        "moduleName": "BrainLinkDualParser",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "DualParser",
+        "printedName": "DualParser",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any BrainLinkDualParser.DualParserDelegate)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DualParserDelegate",
+                    "printedName": "any BrainLinkDualParser.DualParserDelegate",
+                    "usr": "s:19BrainLinkDualParser0cD8DelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19BrainLinkDualParser0cD0C8delegateAA0cD8Delegate_pSgvp",
+            "mangledName": "$s19BrainLinkDualParser0cD0C8delegateAA0cD8Delegate_pSgvp",
+            "moduleName": "BrainLinkDualParser",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any BrainLinkDualParser.DualParserDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DualParserDelegate",
+                        "printedName": "any BrainLinkDualParser.DualParserDelegate",
+                        "usr": "s:19BrainLinkDualParser0cD8DelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19BrainLinkDualParser0cD0C8delegateAA0cD8Delegate_pSgvg",
+                "mangledName": "$s19BrainLinkDualParser0cD0C8delegateAA0cD8Delegate_pSgvg",
+                "moduleName": "BrainLinkDualParser",
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any BrainLinkDualParser.DualParserDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DualParserDelegate",
+                        "printedName": "any BrainLinkDualParser.DualParserDelegate",
+                        "usr": "s:19BrainLinkDualParser0cD8DelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19BrainLinkDualParser0cD0C8delegateAA0cD8Delegate_pSgvs",
+                "mangledName": "$s19BrainLinkDualParser0cD0C8delegateAA0cD8Delegate_pSgvs",
+                "moduleName": "BrainLinkDualParser",
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19BrainLinkDualParser0cD0C8delegateAA0cD8Delegate_pSgvM",
+                "mangledName": "$s19BrainLinkDualParser0cD0C8delegateAA0cD8Delegate_pSgvM",
+                "moduleName": "BrainLinkDualParser",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DualParser",
+                "printedName": "BrainLinkDualParser.DualParser",
+                "usr": "s:19BrainLinkDualParser0cD0C"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19BrainLinkDualParser0cD0CACycfc",
+            "mangledName": "$s19BrainLinkDualParser0cD0CACycfc",
+            "moduleName": "BrainLinkDualParser",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "parsing",
+            "printedName": "parsing(data:length:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.UInt8]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UInt8",
+                    "printedName": "Swift.UInt8",
+                    "usr": "s:s5UInt8V"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19BrainLinkDualParser0cD0C7parsing4data6lengthySays5UInt8VG_SitF",
+            "mangledName": "$s19BrainLinkDualParser0cD0C7parsing4data6lengthySays5UInt8VG_SitF",
+            "moduleName": "BrainLinkDualParser",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "startParsing",
+            "printedName": "startParsing()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19BrainLinkDualParser0cD0C12startParsingyyF",
+            "mangledName": "$s19BrainLinkDualParser0cD0C12startParsingyyF",
+            "moduleName": "BrainLinkDualParser",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stopParsing",
+            "printedName": "stopParsing()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19BrainLinkDualParser0cD0C11stopParsingyyF",
+            "mangledName": "$s19BrainLinkDualParser0cD0C11stopParsingyyF",
+            "moduleName": "BrainLinkDualParser",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:19BrainLinkDualParser0cD0C",
+        "mangledName": "$s19BrainLinkDualParser0cD0C",
+        "moduleName": "BrainLinkDualParser",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BrainLinkDualParser",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BrainLinkDualParser",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 197,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 224,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 255,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 277,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 311,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 323,
+      "length": 4,
+      "value": "2048"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 348,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 369,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 397,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 422,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 448,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 476,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 504,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 530,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 557,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 585,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 613,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 641,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 678,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 711,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 741,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 775,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 810,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 830,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 854,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 872,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 890,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 908,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 924,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 944,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 965,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 983,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1000,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1018,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1034,
+      "length": 1,
+      "value": "9"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1055,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1125,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1135,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1147,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1192,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1202,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1233,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 1256,
+      "length": 7,
+      "value": "3.14159"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "Array",
+      "offset": 1283,
+      "length": 35,
+      "value": "[32, 64, 128, 256, 512, 1024, 2048]"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "Array",
+      "offset": 1334,
+      "length": 23,
+      "value": "[5, 6, 7, 8, 9, 10, 11]"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1400,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1410,
+      "length": 4,
+      "value": "2048"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1476,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1486,
+      "length": 4,
+      "value": "2048"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1500,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1562,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1572,
+      "length": 4,
+      "value": "2048"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1586,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1629,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1639,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1700,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1710,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1721,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1782,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1792,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1803,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3893,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 3919,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3958,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3982,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4057,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 4077,
+      "length": 9,
+      "value": "6.2831855"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4119,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 4176,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 4182,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4236,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 4256,
+      "length": 9,
+      "value": "6.2831855"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4298,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 4355,
+      "length": 4,
+      "value": "0.54"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 4362,
+      "length": 4,
+      "value": "0.46"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4417,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 4437,
+      "length": 9,
+      "value": "6.2831855"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4479,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 4524,
+      "length": 4,
+      "value": "0.42"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 4531,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 4588,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 4615,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4691,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "FloatLiteral",
+      "offset": 4711,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4750,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4773,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4779,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5000,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "kind": "StringLiteral",
+      "offset": 5051,
+      "length": 12,
+      "value": "\"set_window\""
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 562,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 597,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 626,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 654,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 684,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 714,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 743,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 772,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 803,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 829,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 854,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 882,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 909,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 953,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 963,
+      "length": 3,
+      "value": "512"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1014,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1024,
+      "length": 3,
+      "value": "512"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1059,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1090,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1125,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1150,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "FloatLiteral",
+      "offset": 1181,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "FloatLiteral",
+      "offset": 1213,
+      "length": 4,
+      "value": "50.0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1247,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1271,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1291,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1315,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1379,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1389,
+      "length": 3,
+      "value": "512"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1402,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1468,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1478,
+      "length": 3,
+      "value": "140"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1491,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1529,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1539,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1583,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1593,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1638,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1648,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1710,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1720,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1732,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1771,
+      "length": 3,
+      "value": "512"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1796,
+      "length": 3,
+      "value": "256"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1819,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1844,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "StringLiteral",
+      "offset": 1893,
+      "length": 39,
+      "value": "\"com.macrotellect.brainlinkdual.parser\""
+    },
+    {
+      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "FloatLiteral",
+      "offset": 1977,
+      "length": 3,
+      "value": "0.0"
+    }
+  ]
+}
