@@ -10,6 +10,10 @@
 
 
 # 1.Explanation for each brainwave values
+## Raw EEG of 2 channels
+- The original brain wave value RawData (Raw value). The range of values is (-32768, 32767), with data being 512 per second; during transmission, if packet loss occurs, the data is discarded and not displayed. The original brain wave value has no unit and is not the original signal collected by the EEG sensor, but a digital signal converted by the hardware.
+- The original EEG data includes the original signals collected from two channels, namely Fp1 (left frontal) and Fp2 (right frontal).
+
 
 # 2.Start to use this SDK, BrainLinkDualParser
 
