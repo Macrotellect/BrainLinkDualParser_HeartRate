@@ -100,9 +100,9 @@ stop parsing
 raw1: RawEEG of Channel one 
 raw2: RawEEG of Channel two 
 
-`func onSignal(signal: Int)`
+`func onSignal(signal: Bool)`
 
-signal: 0 - 100，100 is good.
+signal: true is wear good
 
 `func onBattery(battery: Int)`
 
@@ -122,10 +122,10 @@ eeg2: The array length is 10, representing the EEG values of Channel 2.
 - Theta（4-8 Hz）
 - Alpha（8-13 Hz）
 - SMR（12-15 Hz）
-- Beta (15-30hz) : The sum of the values of MidBeta and HighBeta
 - MidBeta（15-20 Hz）
 - HighBeta（20-30 Hz）
 - Gamma（30-50 Hz）
+- Beta (15-30hz) : The sum of the values of MidBeta and HighBeta
 - Total： The sum of all brainwave values
 - Max： The maximum value among all brainwave data
 

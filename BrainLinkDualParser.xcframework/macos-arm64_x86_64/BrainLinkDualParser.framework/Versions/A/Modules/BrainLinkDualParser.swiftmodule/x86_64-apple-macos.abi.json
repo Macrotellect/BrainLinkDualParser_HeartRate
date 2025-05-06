@@ -5,6 +5,16 @@
     "printedName": "BrainLinkDualParser",
     "children": [
       {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BrainLinkDualParser",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "DualParserDelegate",
         "printedName": "DualParserDelegate",
@@ -57,14 +67,14 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
               }
             ],
             "declKind": "Func",
-            "usr": "s:19BrainLinkDualParser0cD8DelegateP8onSignal6signalySi_tF",
-            "mangledName": "$s19BrainLinkDualParser0cD8DelegateP8onSignal6signalySi_tF",
+            "usr": "s:19BrainLinkDualParser0cD8DelegateP8onSignal6signalySb_tF",
+            "mangledName": "$s19BrainLinkDualParser0cD8DelegateP8onSignal6signalySb_tF",
             "moduleName": "BrainLinkDualParser",
             "genericSig": "<τ_0_0 where τ_0_0 : BrainLinkDualParser.DualParserDelegate>",
             "sugared_genericSig": "<Self where Self : BrainLinkDualParser.DualParserDelegate>",
@@ -573,977 +583,988 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BrainLinkDualParser",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 197,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 224,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 255,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 277,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 311,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 323,
       "length": 4,
       "value": "2048"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 348,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 369,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 397,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 422,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 448,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 476,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 504,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 530,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 557,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 585,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 613,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 641,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 678,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 711,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 741,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 775,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 810,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 830,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 854,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 872,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 890,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 908,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 924,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 944,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 965,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 983,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1000,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1018,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1034,
       "length": 1,
       "value": "9"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1055,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1125,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1135,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1147,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1192,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1202,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1233,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 1256,
       "length": 7,
       "value": "3.14159"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "Array",
       "offset": 1283,
       "length": 35,
       "value": "[32, 64, 128, 256, 512, 1024, 2048]"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "Array",
       "offset": 1334,
       "length": 23,
       "value": "[5, 6, 7, 8, 9, 10, 11]"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1400,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1410,
       "length": 4,
       "value": "2048"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1476,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1486,
       "length": 4,
       "value": "2048"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1500,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1562,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1572,
       "length": 4,
       "value": "2048"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1586,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1629,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1639,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1700,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1710,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1721,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1782,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1792,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 1803,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 3893,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 3919,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 3958,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 3982,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 4057,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 4077,
       "length": 9,
       "value": "6.2831855"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 4119,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 4176,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 4182,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 4236,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 4256,
       "length": 9,
       "value": "6.2831855"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 4298,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 4355,
       "length": 4,
       "value": "0.54"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 4362,
       "length": 4,
       "value": "0.46"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 4417,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 4437,
       "length": 9,
       "value": "6.2831855"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 4479,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 4524,
       "length": 4,
       "value": "0.42"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 4531,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 4588,
       "length": 3,
       "value": "0.8"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 4615,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 4691,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "FloatLiteral",
       "offset": 4711,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 4750,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 4773,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 4779,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "IntegerLiteral",
       "offset": 5000,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
       "kind": "StringLiteral",
       "offset": 5051,
       "length": 12,
       "value": "\"set_window\""
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 562,
+      "offset": 207,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 597,
+      "offset": 242,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 626,
+      "offset": 271,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 654,
+      "offset": 299,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 684,
+      "offset": 329,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 714,
+      "offset": 359,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 743,
+      "offset": 388,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 772,
+      "offset": 417,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 803,
+      "offset": 448,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 829,
+      "offset": 474,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 854,
+      "offset": 499,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 882,
+      "offset": 527,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 909,
+      "offset": 554,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 953,
+      "offset": 598,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 963,
+      "offset": 608,
       "length": 3,
       "value": "512"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1014,
+      "offset": 659,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1024,
+      "offset": 669,
       "length": 3,
       "value": "512"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1059,
+      "offset": 704,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1090,
+      "offset": 735,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1125,
+      "offset": 770,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1150,
+      "offset": 795,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "FloatLiteral",
-      "offset": 1181,
+      "offset": 826,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "FloatLiteral",
-      "offset": 1213,
+      "offset": 858,
       "length": 4,
       "value": "50.0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1247,
+      "offset": 892,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1271,
+      "offset": 916,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1291,
+      "offset": 936,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "BooleanLiteral",
-      "offset": 1315,
+      "offset": 960,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1379,
+      "offset": 1024,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1389,
+      "offset": 1034,
       "length": 3,
       "value": "512"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1402,
+      "offset": 1047,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1468,
+      "offset": 1113,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1478,
+      "offset": 1123,
       "length": 3,
       "value": "140"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1491,
+      "offset": 1136,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1529,
+      "offset": 1174,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1539,
+      "offset": 1184,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1583,
+      "offset": 1228,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1593,
+      "offset": 1238,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1638,
+      "offset": 1283,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1648,
+      "offset": 1293,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1710,
+      "offset": 1355,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1720,
+      "offset": 1365,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1732,
+      "offset": 1377,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1771,
+      "offset": 1416,
       "length": 3,
       "value": "512"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1796,
+      "offset": 1441,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "BooleanLiteral",
-      "offset": 1819,
+      "offset": 1464,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1844,
+      "offset": 1540,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1608,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1631,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1652,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "StringLiteral",
-      "offset": 1893,
+      "offset": 1701,
       "length": 39,
       "value": "\"com.macrotellect.brainlinkdual.parser\""
     },
     {
-      "filePath": "\/Users\/macrotellect\/Movies\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "FloatLiteral",
-      "offset": 1977,
+      "offset": 1785,
       "length": 3,
       "value": "0.0"
     }
