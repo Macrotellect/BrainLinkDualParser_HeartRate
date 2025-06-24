@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/BrainLinkDualParser.framework/BrainLinkDualParser</key>
 		<data>
-		3oSl4RKY3HfbkrKi3I9feKh087E=
+		EUioanIpLl4nLsM7wBsMEgstp3E=
 		</data>
 		<key>ios-arm64/BrainLinkDualParser.framework/Headers/BrainLinkDualParser.h</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>ios-arm64/BrainLinkDualParser.framework/Info.plist</key>
 		<data>
-		Zve7ZcBhRCI1CZJ+ipQpfg+Jhno=
+		MdCYULIG4qDF/mqT5vYF49G7Kjc=
 		</data>
 		<key>ios-arm64/BrainLinkDualParser.framework/Modules/BrainLinkDualParser.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		SedvgymrFBz4y7WwEydRCX9W/+s=
+		UyjXBlXe/E/z6q3B1e3tu23/6+A=
 		</data>
 		<key>ios-arm64/BrainLinkDualParser.framework/Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/BrainLinkDualParser</key>
 		<data>
-		NE5JxplBYYo3LsrA2G3sI6NsZy0=
+		hxMsgczYNbsmtnd65l6D5CmQSxY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/Headers/BrainLinkDualParser.h</key>
 		<data>
@@ -50,15 +50,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/Info.plist</key>
 		<data>
-		U2KFrLs006fJgNZsuD/HNj9OKDU=
+		NVkcFEwe+8tdVOGHh+JQF8cIAVw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/Modules/BrainLinkDualParser.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		zezqNNsWFb5UHfh9c0jsL0r1RMY=
+		rpxj9Z2bDwItxF8/GS4t/ikwjeA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/Modules/BrainLinkDualParser.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		/TX8GCSUx6EFIEin6eJ6A3lIfqQ=
+		LEkgvruAa0aZBpffCVXnDqrmcGo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		KuohaZYtn1Xp6OsK284zMJv01UA=
+		i1XrGJ/aE36icwlm5s1ligI8PMU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		EFLAwF/dplwO3iNciYUBuXgKcH4=
+		h1KWgf6s7bcvX8EEa/0xHqPFBL4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/_CodeSignature/CodeResources</key>
 		<data>
-		sDYqnpK4sEAmCst0gEBifIXJb6Q=
+		SJVgews0W6ZKKOfD568HshcF1Qo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/_CodeSignature/CodeSignature</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/BrainLinkDualParser</key>
 		<data>
-		d+gpVQkbx0N1OMUe8U2kOMh3eL8=
+		h1V/GZevWzO7KCEQwCvHjZgTc2k=
 		</data>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/Headers/BrainLinkDualParser.h</key>
 		<data>
@@ -126,11 +126,11 @@
 		</data>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/Modules/BrainLinkDualParser.swiftmodule/Project/arm64-apple-macos.swiftsourceinfo</key>
 		<data>
-		mLl4CBTYsN603tg/9iR0UWGxY68=
+		COzEVwyakrnrAL8waZODFj2SrAo=
 		</data>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/Modules/BrainLinkDualParser.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<data>
-		foOAXWfv9DoysJzlEfqvkXZnGFU=
+		X6ksSHcvejVPKIn88A7qFTuqz2w=
 		</data>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/Modules/BrainLinkDualParser.swiftmodule/arm64-apple-macos.abi.json</key>
 		<data>
@@ -170,11 +170,11 @@
 		</data>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/Resources/Info.plist</key>
 		<data>
-		5Z84fSsGfwgKtqjYfH0sbTNzFsA=
+		1RZuCiInK/C2sh9iAwVVaUbiyy8=
 		</data>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/_CodeSignature/CodeDirectory</key>
 		<data>
-		3yMcFNdB/WCrD8WfalIZKHnzrAQ=
+		yysNO8kmewKnkVinv1LqTRXJ8wg=
 		</data>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -182,11 +182,11 @@
 		</data>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		9mv7tIwylxpmu76ibTNPPiaUdOQ=
+		l0NPNejJSB8kVtXkSrkapTZm8ik=
 		</data>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/_CodeSignature/CodeResources</key>
 		<data>
-		jHF+4wwcmGAVmCGsZjQw05OI/Jw=
+		ByFiioOk7oNPhRGIPxJesO68jkA=
 		</data>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/_CodeSignature/CodeSignature</key>
 		<data>
@@ -199,11 +199,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3oSl4RKY3HfbkrKi3I9feKh087E=
+			EUioanIpLl4nLsM7wBsMEgstp3E=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZAqMXf9YiVQ09NShkVIUz6L+7UTvGQimSvE/OP4Cud4=
+			MNX7Cus83r9MMjeD5S7glEbq4OIMTszLRp5t+kHdnBA=
 			</data>
 		</dict>
 		<key>ios-arm64/BrainLinkDualParser.framework/Headers/BrainLinkDualParser.h</key>
@@ -221,22 +221,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zve7ZcBhRCI1CZJ+ipQpfg+Jhno=
+			MdCYULIG4qDF/mqT5vYF49G7Kjc=
 			</data>
 			<key>hash2</key>
 			<data>
-			HIYaHcbAHLgDagLmOW652fYgUKevw0v6DaS+T4tYSSQ=
+			lR++dhidP7BHmatOg6McuLBRu67tfMoxrEqpsqjRS4s=
 			</data>
 		</dict>
 		<key>ios-arm64/BrainLinkDualParser.framework/Modules/BrainLinkDualParser.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SedvgymrFBz4y7WwEydRCX9W/+s=
+			UyjXBlXe/E/z6q3B1e3tu23/6+A=
 			</data>
 			<key>hash2</key>
 			<data>
-			KMbYsJd3qOMQwUoSlumXn9yrvCLYRQylC9qA19rLKaI=
+			ifBQf4XcJnkNGH2Ijp3DiqjVk9NEq7ujV1dsutpsLnw=
 			</data>
 		</dict>
 		<key>ios-arm64/BrainLinkDualParser.framework/Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -298,11 +298,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NE5JxplBYYo3LsrA2G3sI6NsZy0=
+			hxMsgczYNbsmtnd65l6D5CmQSxY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ogDuJpHLAG1Heiz02ArVTOUcj9L2GMC0kIlrc/aqUEU=
+			VqYHD0j0T5FNuYoB5yyBstZuVjVkqmih2yf1QwBOXY4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/Headers/BrainLinkDualParser.h</key>
@@ -320,33 +320,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			U2KFrLs006fJgNZsuD/HNj9OKDU=
+			NVkcFEwe+8tdVOGHh+JQF8cIAVw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Hol7yjKzYwz+I9oDAGPSP3B7xFDbiP8MbIER6OgT1jk=
+			X+skAE2fwxA2GNLE95lO4gGsKKC1S/mc1/5jWSw9ElA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/Modules/BrainLinkDualParser.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zezqNNsWFb5UHfh9c0jsL0r1RMY=
+			rpxj9Z2bDwItxF8/GS4t/ikwjeA=
 			</data>
 			<key>hash2</key>
 			<data>
-			PPHk5lH0yq9HttzmzWdzjjFd/+DSQT5QXegh8+wZnAw=
+			yZfq4Edh5Hs/I4ueSf+q0urhS5qfqQlM05F/gfCw6Kw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/Modules/BrainLinkDualParser.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/TX8GCSUx6EFIEin6eJ6A3lIfqQ=
+			LEkgvruAa0aZBpffCVXnDqrmcGo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ffyFSZnt4qKj3orAN7vN9HRRApQBr6aPW+ZMP2/Fj+M=
+			e/85Z5BiAIEIrEx/doCXn6W73ACyhMzmS4OB8R7DoD4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -452,11 +452,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KuohaZYtn1Xp6OsK284zMJv01UA=
+			i1XrGJ/aE36icwlm5s1ligI8PMU=
 			</data>
 			<key>hash2</key>
 			<data>
-			4bEGZ6JDAguk3EDC9AzRQWl3wixvnKwRaD7oibit9qA=
+			WpiD7952XDnkeJGhKxBI/lN/yCuBzdhiEKHVGc7C09w=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/_CodeSignature/CodeRequirements</key>
@@ -474,22 +474,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EFLAwF/dplwO3iNciYUBuXgKcH4=
+			h1KWgf6s7bcvX8EEa/0xHqPFBL4=
 			</data>
 			<key>hash2</key>
 			<data>
-			hSXk6vLPvIJ8E6JBR0Mjf1Xdgl1AzPr72h7MWKq+ri0=
+			c6uMQhkWm9bYq9G6GBp7btZIP1Zxr9+G1agA5HFuhi0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sDYqnpK4sEAmCst0gEBifIXJb6Q=
+			SJVgews0W6ZKKOfD568HshcF1Qo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Iv6vTip5cgBKl4KH1fbFYp5QLrHQwqK8a/Wi2/YTWTk=
+			xlqO9rOk1wZMHEGkXOfOU6bdAXx1aR5SML/j65gugLs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BrainLinkDualParser.framework/_CodeSignature/CodeSignature</key>
@@ -527,11 +527,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d+gpVQkbx0N1OMUe8U2kOMh3eL8=
+			h1V/GZevWzO7KCEQwCvHjZgTc2k=
 			</data>
 			<key>hash2</key>
 			<data>
-			PsOHl8yIvLLLAxJidxrOqzDaCb6G3iQmUhsk3JGicY4=
+			DPpKgsDCiWn0TsfJiKTOKiyF+UT4JzK5xBeY/lknmZA=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/Headers/BrainLinkDualParser.h</key>
@@ -549,22 +549,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mLl4CBTYsN603tg/9iR0UWGxY68=
+			COzEVwyakrnrAL8waZODFj2SrAo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ROaAJNuiyaTOgdZESNaJ2JcnoTpnf53rWH/ZjEdT5TM=
+			kTr8Y5yeXj8mpwbnrstdj1lZBEOi8tpB5A4M1X8ntwk=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/Modules/BrainLinkDualParser.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			foOAXWfv9DoysJzlEfqvkXZnGFU=
+			X6ksSHcvejVPKIn88A7qFTuqz2w=
 			</data>
 			<key>hash2</key>
 			<data>
-			/aTgHONSwyDxJkw1bcS7Ag/00GdAAn/ZFuZlgOfjjA4=
+			SUbwwZOj9HqKAbtZC0YG3yEj4J+c8XoZ0no4a/iR9b8=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/Modules/BrainLinkDualParser.swiftmodule/arm64-apple-macos.abi.json</key>
@@ -670,22 +670,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5Z84fSsGfwgKtqjYfH0sbTNzFsA=
+			1RZuCiInK/C2sh9iAwVVaUbiyy8=
 			</data>
 			<key>hash2</key>
 			<data>
-			6BcRE/7Vl+PGiBaG5XvoWohC75gDgybSgGIbGo3YAA0=
+			jO5tlxSKAfbabQug8Q6apPYSYAuVaPtFFLEqgw3Ph74=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3yMcFNdB/WCrD8WfalIZKHnzrAQ=
+			yysNO8kmewKnkVinv1LqTRXJ8wg=
 			</data>
 			<key>hash2</key>
 			<data>
-			4CFSPaIOC74p+vig03tvsQyZUPiH63DEVrE7NNac60E=
+			TPdVPpezapU0gTkF1HqtfJ77guq74tyCiij2CzI4Ce0=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/_CodeSignature/CodeRequirements</key>
@@ -703,22 +703,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9mv7tIwylxpmu76ibTNPPiaUdOQ=
+			l0NPNejJSB8kVtXkSrkapTZm8ik=
 			</data>
 			<key>hash2</key>
 			<data>
-			NPh8ASCwHAm1iSKgSsYkLJW4Db1zX1L7GanZZBzv6Ww=
+			+jkmUtfHAwNtqanyRFoOgIM+q5h3ylkZ1crcbzGeDUY=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jHF+4wwcmGAVmCGsZjQw05OI/Jw=
+			ByFiioOk7oNPhRGIPxJesO68jkA=
 			</data>
 			<key>hash2</key>
 			<data>
-			95L5hL0BrV4ayM2rGUf1ieVs2+Bkj6TQehDOqjI29DM=
+			AeiVFIUPiaOMFy5yh5wfS1A5AWez7mgwyoSkN4dQQGI=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/BrainLinkDualParser.framework/Versions/A/_CodeSignature/CodeSignature</key>
