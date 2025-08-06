@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		1RZuCiInK/C2sh9iAwVVaUbiyy8=
+		Nz82CU+zOEny4KTeC/iCIkpxVZA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -26,132 +26,132 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			COzEVwyakrnrAL8waZODFj2SrAo=
+			JOmnoY/e53/k9DTIE9zFgf4+vfs=
 			</data>
 			<key>hash2</key>
 			<data>
-			kTr8Y5yeXj8mpwbnrstdj1lZBEOi8tpB5A4M1X8ntwk=
+			eoyfXAKdkmYM51wxTK6uww4U3gErlJCxXBjYZ+Tz7Bc=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			X6ksSHcvejVPKIn88A7qFTuqz2w=
+			NMz5LEj4c8XT7afuUwPCTmJG+5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			SUbwwZOj9HqKAbtZC0YG3yEj4J+c8XoZ0no4a/iR9b8=
+			U+prUNPyPY6S/11amNndjSPvgt56i4LZ8/18Lwyhw3Q=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wvql9XZWLS6bfTWJoZ5QkHiWkUQ=
+			C79Fa5e1zpiZ+w0fT7df1rYGiFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			/ezgLhN/qzT8ciGAF0ZACleXJ+lkth4yKEORcab9lQE=
+			0HwfLBU7pT73i3r4Ccu/XzTc+zSZ3zil7SLeU9kV7SM=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V/1C7MumDBEadLksApzNkwYtJE8=
+			jaDcr3M1E/3GE+LSIsc5tQAtD58=
 			</data>
 			<key>hash2</key>
 			<data>
-			hDohVnwMTG9w4cVO7w3CSwWEN3ScV2MlzFCbZu0wY8Y=
+			k6xCXeICr2t4jJ7kZoAjfWqrFZlDlA9zBkoRVt4jIfQ=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Qi548K6P9mTAbdSdvkv6HKTNcUQ=
+			pvuNRqJNIYNFjqIq8yAjtG9Tkio=
 			</data>
 			<key>hash2</key>
 			<data>
-			XKLttp4tHkDc/KPVtui9/PuttxCUl3KEpGYQEa7pXnE=
+			q8JLZAUFEApsljwVDl/23NOYDtntaiKDWd0bj/CClh4=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V/1C7MumDBEadLksApzNkwYtJE8=
+			jaDcr3M1E/3GE+LSIsc5tQAtD58=
 			</data>
 			<key>hash2</key>
 			<data>
-			hDohVnwMTG9w4cVO7w3CSwWEN3ScV2MlzFCbZu0wY8Y=
+			k6xCXeICr2t4jJ7kZoAjfWqrFZlDlA9zBkoRVt4jIfQ=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xt9KPEpbjBxclbygVOudHxL0k04=
+			o8eFmXPVere0UdnPNfhBrv4SSG8=
 			</data>
 			<key>hash2</key>
 			<data>
-			K3uQepdSiaN56tHa/e8c1wrkm8BBT7hMMnMpUnA1cEA=
+			kqRfQaazdABcIpqobujz9MLrfcACDk9yMaFFDyig67Y=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wvql9XZWLS6bfTWJoZ5QkHiWkUQ=
+			C79Fa5e1zpiZ+w0fT7df1rYGiFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			/ezgLhN/qzT8ciGAF0ZACleXJ+lkth4yKEORcab9lQE=
+			0HwfLBU7pT73i3r4Ccu/XzTc+zSZ3zil7SLeU9kV7SM=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ol8rL0EiUp1MfXDnVfrwin0D1K8=
+			XBu6uuOYwfl37MEQ8hYsuONDPBQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			uatHsOAJj76kF1RUAGGtXImWZs1YBWgmzLckec0Jxv4=
+			hVUk8eylFtnbFNfp/gMFRcULAn6iMbWodP9c0m3sYic=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ktHHUmhz06fRLMfb4lJXvWGSq5M=
+			1OyLZ/T21w2kR6gx+TtI2bXjm/0=
 			</data>
 			<key>hash2</key>
 			<data>
-			uraFXBmwzKNjCqueSh7kV7mUdkU7NigcbQ75uPW95ww=
+			1TLDVNUyaAYZtLluDLRdvE6yBgT8Q9Bc87hlblPGvrI=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ol8rL0EiUp1MfXDnVfrwin0D1K8=
+			XBu6uuOYwfl37MEQ8hYsuONDPBQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			uatHsOAJj76kF1RUAGGtXImWZs1YBWgmzLckec0Jxv4=
+			hVUk8eylFtnbFNfp/gMFRcULAn6iMbWodP9c0m3sYic=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WAAH/5dlom2M5O0J4WYIdql3/ac=
+			dgYc3wmzE+3EwDDF3mWdmrYCEO0=
 			</data>
 			<key>hash2</key>
 			<data>
-			WPl/LTzNdbac4Wq72NTkU2nPMacTMKDnbgdhgx652PQ=
+			uMmmXcfX/cNNjaSK2rI72vraW38dSL95DsHu8hvMrpA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -169,11 +169,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1RZuCiInK/C2sh9iAwVVaUbiyy8=
+			Nz82CU+zOEny4KTeC/iCIkpxVZA=
 			</data>
 			<key>hash2</key>
 			<data>
-			jO5tlxSKAfbabQug8Q6apPYSYAuVaPtFFLEqgw3Ph74=
+			l8dNz+KSwA7BRkCYDGGDOZqs+a/TMerTT9q7GOg0jEI=
 			</data>
 		</dict>
 	</dict>

@@ -927,23 +927,44 @@
     {
       "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "IntegerLiteral",
-      "offset": 1652,
+      "offset": 1710,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1739,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1764,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "StringLiteral",
-      "offset": 1701,
+      "offset": 1813,
       "length": 39,
       "value": "\"com.macrotellect.brainlinkdual.parser\""
     },
     {
       "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
       "kind": "FloatLiteral",
-      "offset": 1785,
+      "offset": 1897,
       "length": 3,
       "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/Parse.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1920,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Users\/lidehua\/Documents\/MacrotellectProject\/BrainLinkDualParser\/BrainLinkDualParser\/K_FFT.swift",
