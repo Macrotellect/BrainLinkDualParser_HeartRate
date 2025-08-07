@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		DQmksZoKyNAKpkJOlVIVN3256Os=
+		jhX3JdjFzRhTycSaoEXB65v0rv8=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		XKI5NGVv67vkO9L5YsSC1Qg3SNw=
+		i8k5hIzRafLQ2woiE6Zvfc4MajE=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -82,22 +82,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DQmksZoKyNAKpkJOlVIVN3256Os=
+			jhX3JdjFzRhTycSaoEXB65v0rv8=
 			</data>
 			<key>hash2</key>
 			<data>
-			t4iE3Hj83jcDsJoYCMZfubV5Pj/ijPqlz0qJvo8HuFE=
+			kThW1345rNw/4V79v/k2oskFI/TvYd0BXajE6U8Bq5Q=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XKI5NGVv67vkO9L5YsSC1Qg3SNw=
+			i8k5hIzRafLQ2woiE6Zvfc4MajE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Utx3mrbd5EDFFyPLQJm0sPoa4fVHNcb2UegjSsDPQWc=
+			OI6wFiAol5IdpBFbKm31Y53WTPU08eMOFUQLjJ1Xr3I=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
