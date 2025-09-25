@@ -9,7 +9,7 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 public protocol DualParserDelegate {
-  func onRaw(raw1: Swift.Int, raw2: Swift.Int, time: CoreFoundation.CFAbsoluteTime)
+  func onRaw(raw1: Swift.Int, raw2: Swift.Int, time: Swift.Int64)
   func onSignal(signal: Swift.Bool)
   func onBattery(battery: Swift.Int)
   func onFrequency(frequency1: [Swift.Float], frequency2: [Swift.Float])

@@ -33,14 +33,14 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Double",
-                "printedName": "Swift.Double",
-                "usr": "s:Sd"
+                "name": "Int64",
+                "printedName": "Swift.Int64",
+                "usr": "s:s5Int64V"
               }
             ],
             "declKind": "Func",
-            "usr": "s:19BrainLinkDualParser0cD8DelegateP5onRaw4raw14raw24timeySi_SiSdtF",
-            "mangledName": "$s19BrainLinkDualParser0cD8DelegateP5onRaw4raw14raw24timeySi_SiSdtF",
+            "usr": "s:19BrainLinkDualParser0cD8DelegateP5onRaw4raw14raw24timeySi_Sis5Int64VtF",
+            "mangledName": "$s19BrainLinkDualParser0cD8DelegateP5onRaw4raw14raw24timeySi_Sis5Int64VtF",
             "moduleName": "BrainLinkDualParser",
             "genericSig": "<τ_0_0 where τ_0_0 : BrainLinkDualParser.DualParserDelegate>",
             "sugared_genericSig": "<Self where Self : BrainLinkDualParser.DualParserDelegate>",

@@ -14,51 +14,51 @@
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		fmL/stGzaWJgP+slcJ9HEb+YYtE=
+		OFzrmwb0nJDIi8s2HWw4coFo45k=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		nW3RrX7/AIiVMTpOM26aTuXT4a8=
+		3qle7DZXT7wpHd2C9cBFvjlwo3Q=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		0LSvmxlyQmNJzdfsmBzyfsntpww=
+		8PsIz67ieA9qga/QCJR8WGv/d1A=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ppbOOWKFOwVyHlWlXG+nZmomz4w=
+		krvpAy9xR1KVHprsBUXw8Yha42s=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ZKKiv/5OnE0GU6sGWSxSOdNfqOQ=
+		ZnzFZsiHpHDT+cDrBmbUsBrumhI=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ppbOOWKFOwVyHlWlXG+nZmomz4w=
+		krvpAy9xR1KVHprsBUXw8Yha42s=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZlMh/42+5zOwD9muIn+oWINhtS8=
+		CHiPd9I3HEMPXuxoM83PHhTVYys=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		0LSvmxlyQmNJzdfsmBzyfsntpww=
+		8PsIz67ieA9qga/QCJR8WGv/d1A=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		jdWJl0r2qrUfVMM4oqw4oyMbXss=
+		qjV7uIyyu6kTqbO64uyFzX/BfXE=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		oqsMCeLaX1raDn5E5/aA5YcELp8=
+		r5EQVU+AapAKR/bOukQhjgO3Fzc=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		jdWJl0r2qrUfVMM4oqw4oyMbXss=
+		qjV7uIyyu6kTqbO64uyFzX/BfXE=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		027JtLp3xi96oFygl1iZmtfRz4E=
+		0odczdyfwNvimdlqs2WtMrfQAdc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,84 +78,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rGNVikJEBfz8pHznc9XSqTKmfWHG92I9f3Q6TntScZA=
+			kMRmAyfBSizA/EA9cg01gPnu28/Gsesm1bqLR525jQ4=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DnFMfHk5zwXyANiQjaU6+hH48IrIsL9fsYcKeXQB9yQ=
+			7wZF1m+VrFqmzPIXuT2LqKHKhHNWyaHnnwA1HrK1a1g=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l+2L4WjvyCPrRdrC/wPHjk8U2SFKAy+Ua3DAaFAibuA=
+			eEx9zNgdIT3em67eXa+KVpZm0uJPCt84zaqETcCPgUc=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			za8cwvja2Z93KqVP/UVl84otCY8C0RUly6H0K6ZeqLM=
+			idx543uV09YAEqsqpvnCKazqA7jkoHpb18s43ErplUc=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HC8SVO2LrFGyp7kS8SI45HnyUNnnPCQjevm53a3s2EI=
+			avF+IP9+OeW6LM4jXCreadfCf28rJfdc9Zp2xVQ3fY8=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			za8cwvja2Z93KqVP/UVl84otCY8C0RUly6H0K6ZeqLM=
+			idx543uV09YAEqsqpvnCKazqA7jkoHpb18s43ErplUc=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WgCTkQEqOf6rqAduTedSB1Db7y0cypXo3K06RsA+8Ik=
+			8A4lEvu5PgYRNM+yGmY07Catz0nNtNykIVN702J1Q2A=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l+2L4WjvyCPrRdrC/wPHjk8U2SFKAy+Ua3DAaFAibuA=
+			eEx9zNgdIT3em67eXa+KVpZm0uJPCt84zaqETcCPgUc=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1/5RHkC0DNUJa+UkldbPHC4JuNjNi6Kytdhu8uFiJW8=
+			fp15wYbJ6YuPCpmTZVWXl0UKRblla+ayUlX+YG356Ks=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pjRI7jgCA+ErMmj8WE9SCWYq7UzTdEpeHenjKZbCuMY=
+			hZHeFk3Uk+/hLnaVIkC+pISuaMhLj2+ipdOrNLwn92o=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1/5RHkC0DNUJa+UkldbPHC4JuNjNi6Kytdhu8uFiJW8=
+			fp15wYbJ6YuPCpmTZVWXl0UKRblla+ayUlX+YG356Ks=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0gKORkNKtJYm1+uk9Av6PDEeL/CtKqui67G+zUxZ7S0=
+			30BhCq1jw9PmLnpnvzZyAwvG/t4Wk279/9GWX2bhWes=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
