@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nedhwPTz4D+y0pNnp3f2dO0uvRc=
+		pyOu9tWDe8MQSyXsymqFzVwq5u0=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		WtZQYjVwpGvmUyBZv/Idx+5RjE8=
+		7qlFj69WyxGoUsN3T8dsUN/iXTQ=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		lDTbKMqGxRuOcgDOJjDe1lmLH+Y=
+		lObnD2rbFTtPdN5RFvwb+Q+XBOw=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Bl0l82kxlv7HQq9kGJpgzp1Zxi8=
+		ZRTVdiEsJJne0oa5DI847yA6c8w=
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3WR4A0HND5JcpIcoUTbP5V+j0aU=
+		IC8jPwzQJk1vKhcXiQaLhJ7/CH0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0SIZMNEEgy3EM15U/Bbi/za1I5ankIxosJHxblQqk+8=
+			s/gpPr/QB9K42F7U84TxcBOZn7WM+zShFkgkm+WnMaU=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			52m515Nk9DrE4rWgN1TLc3Jqnos4BVz931Bll4smoG4=
+			Sl/AnXcunYii+p88Rq6GEMfZokIgDRbV5TY8lizYxh8=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wyqzms/qi0Ah3a1I//eBVyH0F0e02RtPTf0Fz4lW2fk=
+			lGDHGM6CMNEF/E9R9TbJUrZ4bFoeH1YINoiQ0dF9HZ0=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -155,7 +155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FnpT/Ja6nLKjscrVrw7PzZa4NJ5K3vBrEeus3GFhepw=
+			PEhscVDYyD5zlvzjbqPbc+t7M2qGVy2WbYBOBMITHfE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

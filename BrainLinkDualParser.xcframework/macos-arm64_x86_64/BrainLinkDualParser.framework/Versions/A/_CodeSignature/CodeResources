@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		iVHdtZzXZrIMrC3NvHr6UJsOB4o=
+		i5+bp8CPgv8iwHo0xXd3xFVIVf0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -22,14 +22,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9SjTpJ3xZMy33bnrjQ9qDeEWK3aX/u0zLU6FjF0UK90=
+			cSfDFZDOWH89q4HxG8MfxdX70MmEAl1rBfurLuUngUc=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DJ/lWkVCV54b03IseE38600Lnq22HgxiPJ6uqjAqHeA=
+			9Ju3Czj2bRIJUAcIHreWPssmHA4RCCDKO5py0kDvedg=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/arm64-apple-macos.abi.json</key>
@@ -64,7 +64,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ejwqjS8lsm3/CmoYI+VvbrfLDyGwNjsEEhpIaLH3TIM=
+			gkVdvzhJVsUATyHuzJyg5XU98FjJJAKqvFr7/aB0KBM=
 			</data>
 		</dict>
 		<key>Modules/BrainLinkDualParser.swiftmodule/x86_64-apple-macos.abi.json</key>
@@ -99,7 +99,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/rrz7HVq8B4Leb6QBUlI+bmnqqLYyaYyhgi3H2Uif6I=
+			SAxHX5KvnU0DwFS4YORm2dKf1ODaGGvk9V0Svd/JeaM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -113,7 +113,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pzbml3poDeolFN9d4OdGac4R35r23yJ/vM+tOI1Lf2o=
+			ocF8gwd29u6KyM7ct5n7fFF8dVmKkmZwQJY8EaLXA4E=
 			</data>
 		</dict>
 	</dict>
