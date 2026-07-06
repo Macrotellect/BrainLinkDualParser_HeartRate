@@ -133,11 +133,12 @@ eeg2: The array length is 10, representing the EEG values of Channel 2.
 
 Gyroscope data
 
-`func onExtend(heart: Int, rr: [Int], temperature: Float)`
+`func onExtend(heart: Int, rr: [Int], temperature: Float, oxygen: Int)`
 
 heart: heart rate
 rr: The RR interval data used for calculating HRV.
 temperature: Forehead temperature
+oxygen: Oxygen
 
 # 3.Other tips
 **3-1** What information can be provided to help us resolve issues more quickly during the development process?
