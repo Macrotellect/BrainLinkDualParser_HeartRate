@@ -15,7 +15,7 @@ public protocol DualParserDelegate {
   func onFrequency(frequency1: [Swift.Float], frequency2: [Swift.Float])
   func onEEG(eeg1: [Swift.Float], eeg2: [Swift.Float])
   func onGyro(x: Swift.Int, y: Swift.Int, z: Swift.Int)
-  func onExtend(heart: Swift.Int, rr: [Swift.Int], temperature: Swift.Float)
+  func onExtend(heart: Swift.Int, rr: [Swift.Int], temperature: Swift.Float, oxygen: Swift.Int)
 }
 public class DualParser {
   #if compiler(>=5.3) && $NonescapableTypes

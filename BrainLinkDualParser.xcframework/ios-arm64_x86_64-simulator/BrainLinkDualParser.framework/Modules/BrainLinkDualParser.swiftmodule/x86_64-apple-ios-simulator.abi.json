@@ -260,7 +260,7 @@
           {
             "kind": "Function",
             "name": "onExtend",
-            "printedName": "onExtend(heart:rr:temperature:)",
+            "printedName": "onExtend(heart:rr:temperature:oxygen:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -292,11 +292,17 @@
                 "name": "Float",
                 "printedName": "Swift.Float",
                 "usr": "s:Sf"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
               }
             ],
             "declKind": "Func",
-            "usr": "s:19BrainLinkDualParser0cD8DelegateP8onExtend5heart2rr11temperatureySi_SaySiGSftF",
-            "mangledName": "$s19BrainLinkDualParser0cD8DelegateP8onExtend5heart2rr11temperatureySi_SaySiGSftF",
+            "usr": "s:19BrainLinkDualParser0cD8DelegateP8onExtend5heart2rr11temperature6oxygenySi_SaySiGSfSitF",
+            "mangledName": "$s19BrainLinkDualParser0cD8DelegateP8onExtend5heart2rr11temperature6oxygenySi_SaySiGSfSitF",
             "moduleName": "BrainLinkDualParser",
             "genericSig": "<τ_0_0 where τ_0_0 : BrainLinkDualParser.DualParserDelegate>",
             "sugared_genericSig": "<Self where Self : BrainLinkDualParser.DualParserDelegate>",
